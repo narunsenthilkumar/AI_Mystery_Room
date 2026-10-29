@@ -1,0 +1,23 @@
+{
+  "name": "ai-mystery-room",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AI-powered interactive mystery room web application using Google Gemini, React, Express, and MongoDB",
+  "scripts": {
+    "dev": "node --import dotenv/config -e \"console.log('Starting AI Mystery Room...')\" && (cd server && npm run dev & cd client && npm run dev)",
+    "build": "cd client && npm run build",
+    "start": "cd server && npm start",
+    "test": "cd server && npm test"
+  },
+  "keywords": [
+    "ai",
+    "gemini",
+    "mystery",
+    "detective",
+    "react",
+    "express",
+    "mongodb"
+  ],
+  "author": "",
+  "license": "MIT"
+}

@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    background-color: #070a11;
+    color: #f1f5f9;
+  }
+}
+
+/* Custom scrollbars for noir aesthetic */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0b0f19;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #1e293b;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #334155;
+}
+
+/* Atmospheric subtle grid background */
+.bg-crime-scene {
+  background-image: radial-gradient(rgba(245, 158, 11, 0.05) 1px, transparent 1px), radial-gradient(rgba(255, 255, 255, 0.02) 1px, transparent 1px);
+  background-size: 40px 40px, 10px 10px;
+  background-position: 0 0, 20px 20px;
+}
