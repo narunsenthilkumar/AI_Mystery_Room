@@ -237,3 +237,4 @@ Return only JSON. Do not include markdown codeblocks or conversational text.
     return generateFallbackMystery(premise, difficulty);
   }
 }
+

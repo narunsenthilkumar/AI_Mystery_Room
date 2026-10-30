@@ -17,3 +17,4 @@ export const submitAccusation = (caseId, data) => api.post(`/cases/${caseId}/acc
 export const getCaseResult = (caseId) => api.get(`/cases/${caseId}/result`);
 
 export default api;
+

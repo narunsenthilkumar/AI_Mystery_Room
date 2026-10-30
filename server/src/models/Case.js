@@ -71,3 +71,4 @@ const CaseSchema = new mongoose.Schema({
 
 export const CaseModel = mongoose.models.Case || mongoose.model('Case', CaseSchema);
 export default CaseModel;
+

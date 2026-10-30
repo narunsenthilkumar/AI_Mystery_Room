@@ -380,3 +380,4 @@ $$\text{Final Score} = \max\left(0, \text{Base Score} + \text{Clue Bonus} - \tex
    - [x] Graceful fallback if Gemini API is unreachable or rate-limited.
    - [x] Clear loading spinners and error banners for network or server issues.
    - [x] Responsive layout across mobile, tablet, and desktop viewports.
+

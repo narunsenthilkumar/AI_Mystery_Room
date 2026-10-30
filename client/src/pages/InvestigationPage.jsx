@@ -552,3 +552,4 @@ export default function InvestigationPage() {
     </div>
   );
 }
+

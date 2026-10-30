@@ -20,3 +20,4 @@ export const connectDB = async () => {
 };
 
 export const getIsConnected = () => isConnected;
+

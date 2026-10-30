@@ -60,3 +60,4 @@ export const CaseRepository = {
 };
 
 export default CaseRepository;
+

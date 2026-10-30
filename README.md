@@ -181,3 +181,4 @@ npm test
 - **Project Submission Link:** [https://bit.ly/ai-mystery-room-sub-form](https://bit.ly/ai-mystery-room-sub-form)
 - **Project Deadline:** 2nd November, 11:59 PM
 - **Spec Sheet Blueprint:** [SPEC.md](file:///home/juno/Documents/AI_mystery_room/SPEC.md)
+
